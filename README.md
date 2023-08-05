@@ -7,9 +7,9 @@ Front-end Web Developer
 I’m a charismatic, self-driven front-end web developer overcoming my fear of failure through continuous learning in the pursuit of knowledge and personal growth. As a reformed perfectionist, I embrace failures and setbacks as opportunities for improvement. My creative mindset helps me find innovative ways to make a positive impact, while my empathetic communication style fosters the meaningful connections necessary for collectively creating a more livable future on Earth. I’m passionate about being a force for good and making a positive impact wherever I go and am committed to utilizing my technical and interpersonal skills and abilities to this end.
 
 * 🌍  I'm based in Atlanta, GA
-* 🖥️  See my portfolio at [my portfolio](http://everesthood.super.site)
+* 🖥️  See my portfolio [my portfolio](http://everesthood.super.site)
 * ✉️  You can contact me at [everesthood@gmail.com](mailto:everesthood@gmail.com)
-* 🧠  I'm learning React.js and Python
+* 🧠  I'm learning JavaScript, React.js, and Python
 * 🤝  I'm open to collaborating on creative front-end projects
 * ⚡  I am currently open to new job opportunities
 
