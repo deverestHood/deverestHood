@@ -37,3 +37,5 @@ I’m a charismatic, self-driven front-end web developer overcoming my fear of f
 ### Badges
 
 <a href="https://github.com/deverestHood" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deverestHood&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+[![An image of @deveresthood's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deveresthood)](https://holopin.io/@deveresthood)
