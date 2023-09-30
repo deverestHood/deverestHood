@@ -8,7 +8,7 @@ I’m a charismatic, self-driven front-end web developer overcoming my fear of f
 
 * 🌍  I'm based in Atlanta, GA
 * 🖥️  See [my portfolio](http://everesthood.super.site)
-* ✉️  You can contact me at [everesthood@gmail.com](mailto:everesthood@gmail.com)
+* ✉️  Contact me at [everesthood@gmail.com](mailto:everesthood@gmail.com)
 * 🧠  I'm learning JavaScript, React.js, and Python
 * 🤝  I'm open to collaborating on creative front-end projects
 * ⚡  I am currently open to new job opportunities
