@@ -1,7 +1,7 @@
 Hi, I'm Everest
 ===============================================================================================================================
 
-Frontend Developer
+Front-end Developer
 -----------------------
 
 I’m a charismatic, self-driven frontend developer overcoming my fear of failure through continuous learning in the pursuit of knowledge and personal growth. As a reformed perfectionist, I embrace failures and setbacks as opportunities for improvement. My creative mindset helps me find innovative ways to make a positive impact, while my empathetic communication style fosters the meaningful connections necessary for collectively creating a more livable future on Earth. I’m passionate about being a force for good and making a positive impact wherever I go and am committed to utilizing my technical and interpersonal skills and abilities to this end.
