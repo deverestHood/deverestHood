@@ -4,7 +4,7 @@ Hi, I'm Everest
 Front-end Developer
 -----------------------
 
-I’m a charismatic, self-driven frontend developer overcoming my fear of failure through continuous learning in the pursuit of knowledge and personal growth. As a reformed perfectionist, I embrace failures and setbacks as opportunities for improvement. My creative mindset helps me find innovative ways to make a positive impact, while my empathetic communication style fosters the meaningful connections necessary for collectively creating a more livable future on Earth. I’m passionate about being a force for good and making a positive impact wherever I go and am committed to utilizing my technical and interpersonal skills and abilities to this end.
+As a GIS practitioner, I bring the value of the spatial approach to my work. I’m choosing to build my career in GIS because I’m passionate about working with and visualizing spatial data to enhance understanding of patterns and relationships in the world around us, so people everywhere can make climate-conscious decisions. My creative mindset helps me find innovative ways to make a positive impact, while my empathetic communication style fosters the meaningful connections necessary for collectively creating a more livable future on Earth. I’m passionate about being a force for good and making a positive impact wherever I go and am committed to utilizing my technical and interpersonal skills and abilities to this end.
 
 * 🌍  I'm based in Atlanta, GA
 * 🖥️  See [my portfolio](http://everesthood.super.site)
