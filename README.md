@@ -1,8 +1,6 @@
 Hi, I'm Everest
 ===============================================================================================================================
-
-Front-end Developer
------------------------
+![banner that says Everest Hood - GIS Analyst, Developer and Climate activist alongside an avatar of Everest](https://github.com/deverestHood/deverestHood/assets/125313227/b80ec450-409d-4458-b5d2-e9d1171c7095)
 
 As a GIS practitioner, I bring the value of the spatial approach to my work. I’m choosing to build my career in GIS because I’m passionate about working with and visualizing spatial data to enhance understanding of patterns and relationships in the world around us, so people everywhere can make climate-conscious decisions. My creative mindset helps me find innovative ways to make a positive impact, while my empathetic communication style fosters the meaningful connections necessary for collectively creating a more livable future on Earth. I’m passionate about being a force for good and making a positive impact wherever I go and am committed to utilizing my technical and interpersonal skills and abilities to this end.
 
@@ -38,4 +36,4 @@ As a GIS practitioner, I bring the value of the spatial approach to my work. I�
 
 <a href="https://github.com/deverestHood" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deverestHood&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[![An image of @deveresthood's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deveresthood)](https://holopin.io/@deveresthood)
+[![An image of @deveresthood's Holopin badges, which is a link to view his full Holopin profile](https://holopin.me/deveresthood)](https://holopin.io/@deveresthood)
